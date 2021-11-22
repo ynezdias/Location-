@@ -1,2 +1,2 @@
 # Location-
-Printing the location of the Pc using Python.
+Printing the uptime of your laptop/PC
